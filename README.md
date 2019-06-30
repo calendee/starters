@@ -4,7 +4,7 @@
 # Ionic Starter Templates
 
 :book: **Start an Ionic app**: See our [Getting
-Started](https://ionicframework.com/getting-started/) guide.
+Started](https://ionicframework.com/docs/building/starting) guide.
 
 :mega: **Support**: See our [Support Page][ionic-support] for general
 support questions. The issues on GitHub should be reserved for bug reports and
